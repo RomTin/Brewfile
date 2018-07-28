@@ -1,61 +1,87 @@
-## tap repositories and their packages
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew autoconf
+brew bdw-gc
+brew cmake
+brew docker
+brew docker-compose
+brew docker-machine
+brew elixir
+brew erlang
+brew gauche
+brew gcc
+brew gdbm
+brew gettext
+brew git
+brew gmp
+brew go
+brew isl
+brew jemalloc
+brew jpeg
+brew libidn2
+brew libmpc
+brew libpng
+brew libtermkey
+brew libtiff
+brew libunistring
+brew libuv
+brew libvterm
+brew libyaml
+brew luajit
+brew mas
+brew mpfr
+brew msgpack
+brew mysql
+brew neovim
+brew openssl
+brew pipenv
+brew pkg-config
+brew pyenv
+brew python
+brew python@2
+brew readline
+brew redis
+brew scala
+brew sqlite
+brew thefuck
+brew tig
+brew unibilium
+brew w3m
+brew wget
+brew wxmac
+brew xz
 
 tap homebrew/cask
-tap homebrew/core
-tap caskroom/cask
+cask discord
+cask franz
+cask google-cloud-sdk
+cask intellij-idea-ce
+cask java
+cask postman
+cask resilio-sync
+cask slack
+cask visual-studio-code
 
-# install brew-file
 tap rcmdnk/file
 brew brew-file
 
-
-## installation
-
-# programming
-brew neovim
-cask visual-studio-code
-cask intellij-idea-ce
-
-# languages
-brew pyenv
-brew pipenv
-brew erlang
-brew elixir
-cask java
-brew scala
-brew gauche
-brew go
-
-# database
-brew mysql
-brew sqlite
-brew redis
-
-# browsers
-cask google-chrome
+# Other Cask applications
 cask firefox
-brew w3m
-
-# docker
-brew docker
-brew docker-compose
-cask google-cloud-sdk
-
-# apps
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
 cask mysqlworkbench
-cask postman
-cask resilio-sync
 cask remembear
 cask skype
-cask discord
-cask iterm2
-cask slack
-cask franz
 cask virtualbox
 
-# tools
-brew wget
-brew cmake
-brew git
-brew tig
-cask google-japanese-ime
+# App Store applications
+appstore 549083868 Display Menu (2.2.3)
+appstore 682658836 GarageBand (10.3.1)
+appstore 408981434 iMovie (10.1.9)
+appstore 409183694 Keynote (8.1)
+appstore 409203825 Numbers (5.1)
+appstore 409201541 Pages (7.1)
+appstore 497799835 Xcode (9.4.1)
