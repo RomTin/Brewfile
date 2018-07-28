@@ -9,7 +9,15 @@
 
 ## usage
 
+### install
+
 ```
 $ brew set_repo RomTin/Brewfile
 $ brew file install
+```
+
+### update brew-file list
+
+```
+$ brew file init
 ```
