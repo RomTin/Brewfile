@@ -20,6 +20,7 @@ brew go
 brew isl
 brew jemalloc
 brew jpeg
+brew kubernetes-cli
 brew libidn2
 brew libmpc
 brew libpng
@@ -59,10 +60,10 @@ cask franz
 cask google-cloud-sdk
 cask intellij-idea-ce
 cask java
-cask postman
-cask resilio-sync
-cask slack
-cask visual-studio-code
+cask mysqlworkbench
+cask remembear
+cask skype
+cask virtualbox
 
 tap rcmdnk/file
 brew brew-file
@@ -72,10 +73,11 @@ cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
-cask mysqlworkbench
-cask remembear
-cask skype
-cask virtualbox
+cask minikube
+cask postman
+cask resilio-sync
+cask slack
+cask visual-studio-code
 
 # App Store applications
 appstore 549083868 Display Menu (2.2.3)
