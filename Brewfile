@@ -25,8 +25,6 @@ cask java
 brew scala
 brew gauche
 brew go
-brew gcc
-brew g++
 
 # database
 brew mysql
@@ -35,7 +33,7 @@ brew redis
 
 # browsers
 cask google-chrome
-brew firefox
+cask firefox
 brew w3m
 
 # docker
@@ -44,21 +42,20 @@ brew docker-compose
 cask google-cloud-sdk
 
 # apps
-brew mysqlworkbench
+cask mysqlworkbench
 cask postman
 cask resilio-sync
 cask remembear
 cask skype
-cast discord
-brew iterm2
-brew slack
+cask discord
+cask iterm2
+cask slack
 cask franz
-brew virtualbox
+cask virtualbox
 
 # tools
 brew wget
 brew cmake
-brew imagemagic
 brew git
 brew tig
 cask google-japanese-ime
