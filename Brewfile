@@ -36,6 +36,7 @@ brew mpfr
 brew msgpack
 brew mysql
 brew neovim
+brew nodebrew
 brew openssl
 brew pipenv
 brew pkg-config
