@@ -49,6 +49,7 @@ brew scala
 brew sqlite
 brew thefuck
 brew tig
+brew tree
 brew unibilium
 brew w3m
 brew wget
@@ -88,5 +89,6 @@ appstore 409183694 Keynote (8.1)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
 appstore 425424353 The Unarchiver (4.0.0)
+appstore 1378283354 Whalebird (2.0.1)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.4.1)
