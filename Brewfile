@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew bat
 brew bdw-gc
 brew cmake
 brew docker
@@ -38,6 +39,7 @@ brew mysql
 brew neovim
 brew nodebrew
 brew openssl
+brew packer
 brew pipenv
 brew pkg-config
 brew pyenv
