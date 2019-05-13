@@ -159,6 +159,9 @@ brew richgo
 tap rcmdnk/file
 brew brew-file
 
+# Other Homebrew packages
+brew nvim
+
 # Other Cask applications
 cask discord
 cask franz
