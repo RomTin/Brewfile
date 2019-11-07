@@ -4,6 +4,7 @@
 tap homebrew/core
 brew aom
 brew autoconf
+brew awscli
 brew bat
 brew bdw-gc
 brew cairo
@@ -36,6 +37,7 @@ brew gnutls
 brew go
 brew graphite2
 brew graphviz
+brew gts
 brew harfbuzz
 brew httpie
 brew hub
@@ -43,6 +45,7 @@ brew icu4c
 brew ilmbase
 brew imagemagick
 brew isl
+brew jasper
 brew jemalloc
 brew jpeg
 brew jq
@@ -72,20 +75,25 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libuv
+brew libvidstab
 brew libvorbis
 brew libvpx
 brew libvterm
+brew libxml2
 brew libxmlsec1
 brew libyaml
 brew little-cms2
 brew luajit
+brew lzo
 brew mas
+brew minikube
 brew mpfr
 brew msgpack
 brew mysql
 brew nasm
 brew ncurses
 brew neovim
+brew netpbm
 brew nettle
 brew nginx
 brew nkf
@@ -97,6 +105,7 @@ brew opencore-amr
 brew openexr
 brew openjpeg
 brew openssl
+brew openssl@1.1
 brew opus
 brew p11-kit
 brew p7zip
@@ -120,8 +129,11 @@ brew snappy
 brew sops
 brew speex
 brew sqlite
+brew stern
+brew terraformer
 brew tesseract
 brew texi2html
+brew tfenv
 brew thefuck
 brew theora
 brew tig
@@ -147,11 +159,10 @@ cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
-cask minikube
-cask postman
-cask resilio-sync
-cask slack
-cask visual-studio-code
+cask mysqlworkbench
+cask remembear
+cask skype
+cask virtualbox
 
 tap kyoh86/tap
 brew richgo
@@ -159,31 +170,30 @@ brew richgo
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew nvim
-
 # Other Cask applications
 cask discord
 cask franz
 cask google-cloud-sdk
 cask intellij-idea-ce
 cask java
-cask mysqlworkbench
-cask remembear
-cask skype
-cask virtualbox
+cask minikube
+cask postman
+cask resilio-sync
+cask slack
+cask visual-studio-code
 
 # App Store applications
-appstore 1091189122 Bear (1.6.13)
+appstore 1333542190 1Password 7 (7.3.2)
+appstore 1091189122 Bear (1.6.15)
 appstore 549083868 Display Menu (2.2.3)
 appstore 1077753332 FreeChat for Facebook Messenger (1.1.2)
 appstore 682658836 GarageBand (10.3.2)
 appstore 1342896380 Hex Fiend (2.8)
-appstore 408981434 iMovie (10.1.11)
-appstore 409183694 Keynote (9.0.1)
-appstore 409203825 Numbers (6.0)
-appstore 409201541 Pages (8.0)
-appstore 1429033973 RunCat (3.7)
+appstore 408981434 iMovie (10.1.12)
+appstore 409183694 Keynote (9.1)
+appstore 1295203466 Microsoft Remote Desktop (10.3.2)
+appstore 409203825 Numbers (6.1)
+appstore 409201541 Pages (8.1)
+appstore 1429033973 RunCat (4.7.1)
 appstore 485812721 TweetDeck (3.16.1)
-appstore 1378283354 Whalebird (2.7.1)
-appstore 410628904 Wunderlist (3.4.10)
+appstore 1378283354 Whalebird (2.8.4)
